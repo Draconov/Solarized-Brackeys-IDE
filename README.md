@@ -1,5 +1,4 @@
-# Solarized-Brackeys-IDE
-port of solarized themes to this IDE
-# Brackeys IDE
+# Solarized Brackeys-IDE
+port of solarized themes to [this IDE](https://github.com/massivemadness/Brackeys-IDE)
 
-**Brackeys IDE** is a fast and free multi-language code editor for Android.
+# HOW-TO INSTALL
