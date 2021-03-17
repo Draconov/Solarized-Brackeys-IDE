@@ -1,0 +1,33 @@
+{
+  "author": "Draconov",
+  "description": "port of 🌞solarized-light theme",
+  "color_scheme": {
+    "attr_name_color": "#ff6c71c4",
+    "attr_value_color": "#ff859900",
+    "background_color": "#ffeee8d5",
+    "comment_color": "#ff586e75",
+    "delimiter_background_color": "#ff81d4fa",
+    "entity_ref_color": "#ffcb4b16",
+    "find_result_background_color": "#ff268bd2",
+    "gutter_color": "#ffeee8d5",
+    "gutter_current_line_number_color": "#ff93a1a1",
+    "gutter_divider_color": "#ffeee8d5",
+    "gutter_text_color": "#ff586e75",
+    "keyword_color": "#ff6c71c4",
+    "lang_const_color": "#ffcb4b16",
+    "method_color": "#ff268bd2",
+    "number_color": "#ffd33682",
+    "operator_color": "#ff2aa198",
+    "preprocessor_color": "#ff073642",
+    "selected_line_color": "#fffdf6e3",
+    "selection_color": "#fffdf6e3",
+    "string_color": "#ff859900",
+    "suggestion_query_color": "#ff073642",
+    "tag_color": "#ff2aa198",
+    "tag_name_color": "#ffd33682",
+    "text_color": "#ff93a1a1",
+    "type_color": "#ff6c71c4"
+  },
+  "name": "Solarized Light",
+  "uuid": "d4b15348-9810-4306-8c8e-4cba33de6704"
+}
